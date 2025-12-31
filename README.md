@@ -1,39 +1,9 @@
 # ShopSphere | ASP.NET Core Full-Stack Reference Application
 
-> This project is based on Microsoft’s eShopOnWeb reference architecture.  
-> Active development of the official samples continues at https://github.com/dotnet/eShop.  
-> A community-maintained version is available at https://github.com/NimblePros/eShopOnWeb.
-
 ShopSphere is a **modern ASP.NET Core full-stack web application** that demonstrates enterprise web application patterns using a **single-process (monolithic) architecture**. The project focuses on clean architecture, maintainability, and cloud-ready deployment practices.
 
 If you are new to .NET development, refer to the Getting Started for Beginners guide:
 https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners
-
-Frequently Asked Questions for this repository can be found here:
-https://github.com/dotnet-architecture/eShopOnWeb/wiki/Frequently-Asked-Questions
-
----
-
-## Overview Video
-
-Steve “ardalis” Smith recorded a live stream walkthrough explaining the architecture and design decisions behind this application:
-
-https://www.youtube.com/watch?v=vRZ8ucGac8M
-
----
-
-## eBook Reference
-
-This application supports the free ebook  
-**Architecting Modern Web Applications with ASP.NET Core and Azure**, updated for **ASP.NET Core 8.0**.
-
-- PDF download: https://aka.ms/webappebook  
-- Online documentation: https://docs.microsoft.com/dotnet/architecture/modern-web-apps-azure/  
-- ePub / mobi formats: https://dotnet.microsoft.com/learn/web/aspnet-architecture
-
-[<img src="https://dotnet.microsoft.com/blob-assets/images/e-books/aspnet.png" height="300" />](https://dotnet.microsoft.com/learn/web/aspnet-architecture)
-
----
 
 ## Project Context
 
