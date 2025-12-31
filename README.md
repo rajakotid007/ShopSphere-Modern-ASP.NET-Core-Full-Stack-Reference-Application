@@ -39,7 +39,9 @@ The purpose of this project is to demonstrate architectural and design principle
 
 The application home page appears as follows:
 
-![ShopSphere home page](https://user-images.githubusercontent.com/782127/88414268-92d83a00-cdaa-11ea-9b4c-db67d95be039.png)
+![ShopSphere home page]
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/1b7a0cc3-7e09-4626-8df4-b17406f36d1b" />
+
 
 The Azure Developer CLI (`azd`) is used to provision and deploy the application to Azure.
 
