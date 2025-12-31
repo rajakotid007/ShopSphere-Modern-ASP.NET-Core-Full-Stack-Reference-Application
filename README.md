@@ -2,9 +2,6 @@
 
 ShopSphere is a **modern ASP.NET Core full-stack web application** that demonstrates enterprise web application patterns using a **single-process (monolithic) architecture**. The project focuses on clean architecture, maintainability, and cloud-ready deployment practices.
 
-If you are new to .NET development, refer to the Getting Started for Beginners guide:
-https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners
-
 ## Project Context
 
 ShopSphere is conceptually related to the **eShopOnContainers** project, which focuses on a microservices and container-based architecture.
